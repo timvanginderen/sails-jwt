@@ -196,10 +196,9 @@ npm run test
 
 
 #### Inspired by
-This project is based on this repo:
+This project is a 'fork' of [https://github.com/Deliaz/sails-api-jwt](https://github.com/Deliaz/sails-api-jwt)
+which is in turn based on this repo:
 [https://github.com/swelham/sails-jwt-example](https://github.com/swelham/sails-jwt-example) *(unlicensed)*.  
-I refactored and improved it for myself.     
-
 
 #### License
 It is MIT. 
