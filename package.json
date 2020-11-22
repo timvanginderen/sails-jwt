@@ -12,8 +12,8 @@
     "API"
   ],
   "dependencies": {
-    "bcrypt": "^2.0.0",
-    "farmhash": "^2.0.4",
+    "bcrypt": "^5.0.0",
+    "farmhash": "^2.1.0",
     "include-all": "^4.0.3",
     "jsonwebtoken": "^8.1.0",
     "mailgun-js": "^0.17.0",
